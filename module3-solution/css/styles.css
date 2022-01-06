@@ -36,7 +36,7 @@ h1{
 
 }
 @media (max-width:780px){
-    .container{
+    .cont{
         margin-left: 10px;
         margin-right: 10px;
     }
