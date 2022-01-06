@@ -28,7 +28,7 @@ h1{
     height: 1000px;
     
 }
-@media (min-width:576px){
+@media (min-width:768px){
   .navbar-toggle,#bs-example-navbar-collapse-1{
       display: none !important;;
   }
