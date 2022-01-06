@@ -30,7 +30,7 @@ h1{
 }
 @media (min-width:576px){
   .navbar-toggle,#bs-example-navbar-collapse-1{
-      display:none;
+      display: none !important;;
   }
   
 
