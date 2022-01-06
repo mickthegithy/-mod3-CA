@@ -1,0 +1,43 @@
+
+nav{
+    background-color: rgb(0, 0, 0);
+}
+nav > div{
+    color:rgb(12, 109, 165);
+
+}
+body{
+    background-color: rgb(12, 109, 165);
+}
+.icon-bar{
+  background-color: rgb(12, 109, 165);
+}
+h1{
+    color:black;
+}
+#bs-example-navbar-collapse-1{
+    width:100%;
+    margin-top : 0px;
+    background-color: rgb(0, 0, 0);
+   
+  
+}
+.cont{
+    background-color: rgb(0, 0, 0);
+    color:rgb(12, 109, 165);
+    height: 1000px;
+    
+}
+@media (min-width:576px){
+  .navbar-toggle,#bs-example-navbar-collapse-1{
+      display:none;
+  }
+  
+
+}
+@media (max-width:780px){
+    .container{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
